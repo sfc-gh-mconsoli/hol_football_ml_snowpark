@@ -1,0 +1,6 @@
+{
+   "account": "org-accountname",
+   "user": "your_username",
+   "password": "your_password",
+   "role": "ACCOUNTADMIN"
+}
