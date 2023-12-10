@@ -16,5 +16,5 @@ NOTE: Model accuracy is not the primary goal of this project; instead, it aims t
 ![Introduction - Design](https://github.com/matteo-consoli/hol_football_ml_snowpark/blob/main/images/design_football_ml.png?raw=true)
 
 
-Thanks ChatGPT for making markdown so easy <3 
+Thanks, ChatGPT! You've transformed this disorganized developer into a Markdown addict. ❤️
 
