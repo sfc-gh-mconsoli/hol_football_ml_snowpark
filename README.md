@@ -1,4 +1,4 @@
-# Football Player Classification
+# Classification of Football Players' Positions
 ### Hands On Lab : Snowflake & Snowpark | ML - Random Forest Classifier
 
 This project aims to provide an all-in-one Jupyter notebook covering the entire pipeline for football player classification in Snowpark. 
